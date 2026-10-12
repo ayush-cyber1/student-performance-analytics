@@ -3,7 +3,7 @@
 A simple Python project that reads student data from a CSV file, analyzes it using NumPy and Pandas, and shows the results in the terminal, in a Jupyter Notebook, and on a live website.
 
 ## Live Demo
-https://YOUR-USERNAME.github.io/student-performance-analytics/
+https://ayush-cyber1.github.io/student-performance-analytics/
 
 ## Technology Used
 - Python
